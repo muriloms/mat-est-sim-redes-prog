@@ -8,6 +8,8 @@
 ## Simulação
 
 ## Redes Complexas
+### -- Materiais
+https://github.com/muriloms/mat-est-sim-redes-prog/blob/master/redes/material.md
 
 ### -- Grafos com python
 Estudos utilizando programação em python e biblioteca NetworkX
